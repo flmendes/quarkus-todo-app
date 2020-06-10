@@ -1,1 +1,1 @@
-buildPack: maven-quarkus
+buildPack: maven-java11
